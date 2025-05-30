@@ -17,6 +17,10 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…# pagen
 
 ## Running the Application
+### Commom Module 
+
+1. Request Key : You'll need to setup the `api.key` property in the local.properties file to make successful requests. 
+
 
 ### Android
 1. Open the project in Android Studio
@@ -28,9 +32,6 @@ Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-mu
 2. Select your target device/simulator
 3. Click Run to build and deploy
 
-### Web (if applicable)
-1. Run `./gradlew composeApp:jsBrowserDevelopmentRun`
-2. Open http://localhost:8080 in your browser
 
 ## Running Tests
 
@@ -54,13 +55,11 @@ Run all tests:
 
 ## Demo
 ### iOS
-
-
-https://github.com/user-attachments/assets/1f273bb1-0a43-4d41-9551-f7715bf37a7d
+https://github.com/user-attachments/assets/9c76dbb3-a10f-4507-97a7-f60ff5a3a098
 
  
 ### Android
 
-https://github.com/user-attachments/assets/042bda22-3bac-4e8e-aa78-7112d22528bf
+https://github.com/user-attachments/assets/7c422589-739c-407e-9be3-91046a03e7e9
 
 
