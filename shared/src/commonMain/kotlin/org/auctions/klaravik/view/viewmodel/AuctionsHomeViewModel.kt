@@ -51,8 +51,6 @@ open class AuctionsHomeViewModel(private val auctionUseCaseFactory: AuctionUseCa
 
 
     fun selectCategory(categoryItem: CategoryItem) {
-        Logger.d { "Selected category: ${categoryItem.children?.size}" }
-        Logger.d { "Selected category: ${flattenCategories(_categoryTreeResult.value?.roots?.toMutableList()).size}" }
         _selectedCategory.value = categoryItem
     }
 
