@@ -54,9 +54,7 @@ Run all tests:
 
 ## Demo
 ### iOS
-
-
-https://github.com/user-attachments/assets/1f273bb1-0a43-4d41-9551-f7715bf37a7d
+https://github.com/user-attachments/assets/9c76dbb3-a10f-4507-97a7-f60ff5a3a098
 
  
 ### Android
