@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Klaravik</string>
+
+    <!-- Common strings -->
+    <string name="back">Back</string>
+    <string name="unknown">Unknown</string>
+    <string name="no_description">No description available.</string>
+    
+    <!-- AuctionScreen strings -->
+    <string name="search_placeholder">Search...</string>
+    <string name="recommended_for_you">Recommended for you</string>
+    <string name="view_all">View all</string>
+    <string name="now_in_auction">Now in the auction</string>
+    <string name="categories">Categories</string>
+    <string name="unknown_item">Unknown Item</string>
+    
+    <!-- MainScreen strings -->
+    <string name="auction_listings">Auction Listings</string>
+    <string name="category_prefix">Category: %s</string>
+    <string name="current_bid_prefix">Current bid: $%s</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    
+    <!-- CategoryDetailScreen strings -->
+    <string name="unknown_category">Unknown Category</string>
+    <string name="no_products_available">No products available in this category or with selected filters.</string>
+    <string name="current_bid_label">Current Bid: %s</string>
+    
+    <!-- ProductDetailScreen strings -->
+    <string name="product_details">Product Details</string>
+    <string name="place_bid">Place Bid</string>
+    <string name="bid_success">Bid placed successfully!</string>
+    <string name="bid_error">Something went wrong while placing your bid.</string>
+    <string name="ok">OK</string>
+    <string name="place_your_bid">Place Your Bid</string>
+    <string name="close">Close</string>
+    <string name="your_bid">Your Bid</string>
+    <string name="make_bid_now">Make a Bid Now</string>
+    <string name="bid_too_low">Your bid must be higher than the current bid.</string>
+    <string name="invalid_bid">Please enter a valid positive bid amount.</string>
+</resources>
