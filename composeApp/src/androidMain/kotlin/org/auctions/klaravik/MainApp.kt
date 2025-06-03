@@ -11,7 +11,7 @@ class MuseumApp : Application() {
         initKoin(
             listOf(
                 module {
-                    factory { AuctionsHomeViewModel(get()) }
+                    single { AuctionsHomeViewModel(get()) }
                 }
             )
         )
